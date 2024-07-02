@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AbdulRafay517
-- 👀 I’m interested in ... Computer Technology, Operaring Systems and escpacially in Windows.
-- 🌱 I’m currently learning ... Programming Languages and working in Windows Insider Program.
-- 💞️ I’m currently collaborating with ... Microsoft on it's Windows 10 Sun Valley Project.
-- 📫 How to reach me ... Email: abdulrafay517@hotmail.com
-                          Cell: +92 335 0949601
+👋 Hi, I’m Abdul Rafay.
+👀 I’m interested in Electrical and Computer Engineering, IoT, and Operating Systems, especially Windows.
+🌱 I’m currently learning advanced hardware/software development, programming languages (Python, C++, React Native), and actively participating in the Windows Insider Program.
+💞️ I’m currently working as a freelancer.
+🏆 Huawei IT & Network State Runner-up 2022 | Interned at Orange Technologies & PTCL.
+📫 How to reach me: abdulrafay517@hotmail.com
 
 <!---
 AbdulRafay517/AbdulRafay517 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
