@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electrical and Computer Engineering, IoT, and Operating Systems, especially Windows.
 - 🌱 I’m currently learning advanced hardware/software development, programming languages (Python, C++, React Native), and actively participating in the Windows Insider Program.
 - 💞️ I’m currently working as a freelancer.
-- 🏆 Huawei IT & Network State Runner-up 2022 | Interned at Orange Technologies & PTCL.
+- 🏆 Microsoft Windows Bug Bash Runner-up 2019 | Huawei IT & Network State Runner-up 2022.
 - 📫 How to reach me: abdulrafay517@hotmail.com
 
 <!---
